@@ -7,13 +7,60 @@
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
-            <entry key="$USER_HOME$/Projects/http4k-test" value="PREVIEW" />
-            <entry key="$USER_HOME$/Projects/merchandiser" value="PREVIEW" />
+            <entry key="$USER_HOME$/contact-centre" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/checkout/bff" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/contact-centre/order-manage-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/contact-centre/web" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/digital-merch/hello-world" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/digital-merch/merchandiser" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/http4k-by-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/http4k-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/permissions" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/product-summary" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/training-app-1" value="PREVIEW" />
+            <entry key="$USER_HOME$/development/whats-running-where" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/advent-of-code-2018" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/coding-challenges" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/intro-coroutines" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/ktor-samples" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/logbook-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/soniaProject" value="PREVIEW" />
+            <entry key="$USER_HOME$/personalDevelopment/spring-rest-sample" value="PREVIEW" />
+            <entry key="$USER_HOME$/shadertoy" value="PREVIEW" />
           </map>
         </option>
       </component>
-      <component name="ScalaSbtSettings">
-        <option name="customVMPath" />
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
       </component>
       <component name="masterDetails">
         <states>
@@ -23,7 +70,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.19665273" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>

@@ -1,0 +1,28 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Scala" />
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy">
+        <added pattern="com.johnlewis.contactcentre.domain.common.Money.inPounds(amount)" />
+        <added pattern="com.johnlewis.contactcentre.domain.manage.delivery.DeliveryBatch.DeliveryBatch(calendarId,deliverySlots)" />
+        <added pattern="com.johnlewis.order.manage.order.api.builder.AmendDeliveryRequestBuilderTest.getIntentWithPayment(priceAdjustment,deliveryId)" />
+        <added pattern="com.johnlewis.order.manage.order.api.builder.AmendDeliveryRequestBuilderTest.getTwoBatchIntentWithPayment(firstBatchCharge,secondBatchCharge,firstBatchDeliveryId,secondBatchDeliveryId)" />
+        <added pattern="com.johnlewis.order.manage.order.api.builder.AmendDeliveryRequestBuilderTest.getOrderWithReleasedItem(firstBatchDeliveryCharge,secondBatchDeliveryCharge,firstBatchDeliveryId,secondBatchDeliveryId)" />
+        <added pattern="com.johnlewis.order.manage.order.api.builder.AmendDeliveryRequestBuilderTest.getIntentWithRefund(refundAmount,deliveryId)" />
+        <added pattern="com.johnlewis.order.manage.order.mapper.DeliveryBatchesMapperTest.shipped(quantity,releaseKey)" />
+        <added pattern="com.johnlewis.order.manage.order.mapper.DeliveryBatchesMapperTest.released(quantity,releaseKey)" />
+        <added pattern="com.johnlewis.order.manage.order.mapper.DeliveryBatchesMapperTest.created(quantity)" />
+      </blacklist>
+      <blacklist language="Ruby" />
+      <blacklist language="Kotlin">
+        <added pattern="Scratch_8.*" />
+        <added pattern="challenge_three.printString(input)" />
+        <added pattern="LifeExpectancyForYear(year,lifeExpectancy)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
+  </component>
+</application>
