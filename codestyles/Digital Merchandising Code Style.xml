@@ -1,0 +1,10 @@
+<code_scheme name="Digital Merchandising Code Style" version="173">
+  <JetCodeStyleSettings>
+    <option name="CONTINUATION_INDENT_IN_PARAMETER_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_FOR_EXPRESSION_BODIES" value="false" />
+    <option name="CONTINUATION_INDENT_FOR_CHAINED_CALLS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_IF_CONDITIONS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_ELVIS" value="false" />
+  </JetCodeStyleSettings>
+</code_scheme>
