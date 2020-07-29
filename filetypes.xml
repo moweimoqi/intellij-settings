@@ -4,12 +4,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
-      <mapping ext="inventory" type="PLAIN_TEXT" />
       <mapping ext="cleancorrupts3domaineventsmigration2" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="inventory" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
