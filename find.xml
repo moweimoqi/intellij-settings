@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,7 +15,7 @@
     <mask>*.expected</mask>
     <mask>*.kt</mask>
     <mask>*.sbt</mask>
-    <mask>*.scala</mask>
     <mask>*.conf</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
