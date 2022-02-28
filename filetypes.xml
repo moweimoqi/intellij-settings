@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Jenkins" type="AUTO_DETECTED" />
-      <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="inventory" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
