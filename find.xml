@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="d" />
     <mask>*.expected</mask>
     <mask>*.kt</mask>
     <mask>*</mask>
@@ -19,5 +19,6 @@
     <mask>*.yaml</mask>
     <mask>*.sbt</mask>
     <mask>*.scala</mask>
+    <mask>d</mask>
   </component>
 </application>
