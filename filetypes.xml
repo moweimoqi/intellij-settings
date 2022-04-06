@@ -2,15 +2,15 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Jenkins" type="AUTO_DETECTED" />
-      <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
+      <mapping ext="jfr" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="inventory" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="hcl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
