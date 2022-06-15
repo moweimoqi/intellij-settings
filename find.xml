@@ -7,10 +7,8 @@
     <mask>*.kt</mask>
     <mask>*</mask>
     <mask>*.md</mask>
-    <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
@@ -18,6 +16,8 @@
     <mask>*.sbt</mask>
     <mask>d</mask>
     <mask>*.conf</mask>
+    <mask>*.xml</mask>
+    <mask>*.yaml</mask>
     <mask>*.scala</mask>
   </component>
 </application>
