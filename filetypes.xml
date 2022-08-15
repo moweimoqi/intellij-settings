@@ -5,8 +5,8 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
       <mapping ext="jfr" type="PLAIN_TEXT" />
-      <mapping ext="inventory" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
+      <mapping ext="inventory" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
