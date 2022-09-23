@@ -18,8 +18,8 @@
     <mask>*.xml</mask>
     <mask>*.smithy</mask>
     <mask>*.conf</mask>
-    <mask>*.yaml</mask>
     <mask>*.scala</mask>
+    <mask>*.yaml</mask>
     <mask>*.yaml</mask>
   </component>
 </application>
