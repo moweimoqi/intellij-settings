@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Jenkins" type="AUTO_DETECTED" />
+      <mapping ext="rollbackhuluusermigration2" type="Groovy" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="06270e22-9845-4155-b268-67616da310b7" type="PLAIN_TEXT" />
       <mapping ext="jfr" type="PLAIN_TEXT" />
@@ -19,7 +20,6 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="rollbackhuluusermigration2" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
