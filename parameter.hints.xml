@@ -24,5 +24,13 @@
       </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="java.enums" value="false" />
+    <option id="java.new.expr" value="false" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="Smithy" />
+      <language id="Scala" />
+      <language id="Groovy" />
+    </disabledLanguages>
   </component>
 </application>
