@@ -35,14 +35,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="Scala.Scala.ScalaGeneralTypeHintsSettingsModel" />
-    <settingsMapElement>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showInferred" value="true" />
-        </Settings>
-      </JAVA.annotation.hints>
-    </settingsMapElement>
+    <option name="lastViewedProviderKeyId" value="Scala.parameter.hints.old.scala.apply.update.hint" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
